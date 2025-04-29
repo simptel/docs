@@ -52,7 +52,3 @@
         * [SCIM Push Model](tf-platform/administration/organizations/integrations/identity-sync/scim-push-model.md)
       * [Identity Federation](tf-platform/administration/organizations/integrations/identity-federation/README.md)
         * [OpenId Connect integration](tf-platform/administration/organizations/integrations/identity-federation/openid-connect-integration.md)
-
-***
-
-* [Glossary](glossary.md)
