@@ -8,16 +8,18 @@ description: >-
 
 ### Steps to Configure a Custom Domain
 
-#### 1. Add Your Domain
+#### 1. Inside the platform
 
 * Navigate to **Add New Domain**.
 * In the dialog, enter the domain name.
+* And select your ACME Provider: Lets Encrypt or ZeroSSL
 * Click **Save** to generate the required CNAME record for DNS setup.
 
-#### 2. **Update DNS Settings**
+#### 2. Outside the platform
 
 * Log in to your DNS provider’s management console.
 * Add the generated CNAME record to your DNS zone.
+* Ensure the TXT value has the ACME generated value with right config.
 * Ensure the CNAME value points to the target **subdomain.tfplatform.com**.
 * Save the updated DNS configuration.
 
