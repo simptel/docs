@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Organizations
 
 With TF Platform, you can manage Organizations that serve as **top-level** entities, allowing the creation and management of multiple projects. You can easily register an organization using your TF Platform account.\

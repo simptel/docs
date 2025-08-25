@@ -1,21 +1,7 @@
 ---
 icon: globe
-cover: ../.gitbook/assets/world.png
+cover: ../../.gitbook/assets/world.png
 coverY: -127.73313565604151
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Data regions
