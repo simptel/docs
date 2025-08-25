@@ -7,7 +7,7 @@ This page provides information about the sub-processors that Simptel has engaged
 There are three types of sub-processors:
 
 1. Simptel entities that provide the infrastructure on which the Simptel services run;
-2. Simptel entities that support specific AWS services which may require these entities to process Customer Data; and
+2. Simptel entities that support specific Simptel services which may require these entities to process Customer Data; and
 3. third parties that Simptel has contracted with to provide processing activities for specific Simptel services.
 
 \
