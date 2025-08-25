@@ -5,7 +5,7 @@
 ## Tf platform
 
 * [Overview](tf-platform/overview.md)
-* [Data regions](tf-platform/data-regions/README.md)
+* [Data regions](tf-platform/data-regions.md)
   * [Simptel Sub-processors](tf-platform/data-regions/simptel-sub-processors.md)
   * [Regions](tf-platform/data-regions/regions.md)
 * [Administration](tf-platform/administration/README.md)

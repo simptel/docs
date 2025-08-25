@@ -1,6 +1,6 @@
 ---
 icon: globe
-cover: ../../.gitbook/assets/world.png
+cover: ../.gitbook/assets/world.png
 coverY: -127.73313565604151
 ---
 
