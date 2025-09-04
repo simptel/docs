@@ -2,7 +2,7 @@
 
 ### Who is Simptel?
 
-Simptel B.V. and its subsidiaries operate services and websites under the domains **simptel.com** and **simptellabs.com**. . For details about Simptel and it's subsidiaries, please see our [legal notice.](legal-notice/)\
+Simptel B.V. and its subsidiaries operate services and websites under the domains **simptel.com** and **simptellabs.com**. For details about Simptel and it's subsidiaries, please see our [legal notice.](legal-notice/)\
 \
 This Privacy Statement explains **what personal data we collect, how we use it, how long we keep it, how we protect it, and what rights you have** when engaging with our platforms, products, and services.
 

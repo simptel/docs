@@ -1,6 +1,6 @@
 # Disclaimer
 
-Simptel B.V. and its subsidiaries (hereafter “Simptel,” “we,” or “us”) are committed to keeping this website accurate and up to date. For details about our subsidiaries, please see our [legal notice.](legal-notice/)\
+Simptel B.V. and its subsidiaries (hereafter “Simptel,” “we,” or “us”) are committed to keeping this website accurate and up to date. For details about Simptel and it's subsidiaries, please see our [legal notice.](legal-notice/)\
 \
 Please let us know if you encounter anything incorrect or outdated. Please indicate where on the website you read the information. We will then look at this as soon as possible. Please send your response by email to: [support@simptel.com](mailto:support@simptel.com).
 
