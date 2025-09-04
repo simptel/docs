@@ -22,7 +22,7 @@ We believe in full transparency. Below is an overview of the categories of perso
 | Location Data              | Geolocation features, security                     | Until consent withdrawal / up to 12 months            |
 | Usage & Communication Data | Service delivery, troubleshooting, analytics       | As long as necessary for service + legal requirements |
 
-For additional details on cookies and tracking technologies, please see our [**Cookies Statement**](https://chatgpt.com/cookies).
+For additional details on cookies and tracking technologies, please see our [**Cookies Statement**](https://www.simptel.com/legal/cookies).
 
 ***
 
@@ -91,9 +91,9 @@ We may update this Privacy Statement from time to time. If material changes occu
 
 Please also review our:
 
-* [**Disclaimer**](https://chatgpt.com/disclaimer)
-* [**Terms & Conditions**](https://chatgpt.com/terms)
-* [**Legal Notice**](https://chatgpt.com/legal-notice)
+* [**Disclaimer**](./)
+* [**Terms & Conditions**](https://www.simptel.com/legal/terms-and-conditions)
+* [**Legal Notice**](legal-notice/)
 
 These documents work together with this Privacy Statement to govern the use of our services and websites.
 
