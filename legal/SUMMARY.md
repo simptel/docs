@@ -6,5 +6,5 @@
 * [Privacy Statement](privacy-statement.md)
 * [Data Processing Addendum](data-processing-addendum.md)
 * [Terms and Conditions](terms-and-conditions.md)
-* [Service Level Agreement (SLA)](service-level-agreement-sla.md)
+* [Service Level Agreement](service-level-agreement.md)
 * [Governing Law and Disputes](governing-law-and-disputes.md)

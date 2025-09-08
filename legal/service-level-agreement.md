@@ -1,4 +1,4 @@
-# Service Level Agreement (SLA)
+# Service Level Agreement
 
 This Service Level Agreement ("SLA") forms an **integral part of the Simptel Terms and Conditions**.\
 Where Simptel has agreed on a custom SLA in a signed contract with a Client, the provisions of that contract will prevail over this SLA.
