@@ -47,7 +47,7 @@ Service availability is measured quarterly using Simptel’s monitoring systems.
 
 ### 4. Support Access
 
-Clients have access to the **Simptel Support Portal** for documentation, guides, and service updates: [https://www.simptel.com/support/](https://www.simptel.com/support/)
+Clients have access to the **Simptel Support Portal** for documentation, guides, and service updates: [https://docs.simptel.com/tf-platform/administration/organizations/support](https://docs.simptel.com/tf-platform/administration/organizations/support)
 
 **Support rules:**
 
