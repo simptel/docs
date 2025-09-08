@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Overview](README.md)
-
 ## Tf platform
 
-* [Overview](tf-platform/overview.md)
+* [Overview](README.md)
 * [Data regions](tf-platform/data-regions.md)
   * [Sub-processors](tf-platform/data-regions/sub-processors.md)
-  * [Regions](tf-platform/data-regions/regions.md)
 * [Administration](tf-platform/administration/README.md)
   * [Organizations](tf-platform/administration/organizations/README.md)
     * [Settings](tf-platform/administration/organizations/settings/README.md)
