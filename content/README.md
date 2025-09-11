@@ -4,15 +4,35 @@ icon: clipboard-question
 
 # Overview
 
-### What is TF Platform?
+## What is TF Platform?
 
-**TF Platform** (The Future Platform) simplifies the management of information security infrastructure within a unified ecosystem. This enables you to build and scale your services securely and efficiently. Our goal is to help teams rapidly create secure, enterprise-grade applications so they can focus on scaling and innovating their products and services.
+**TF Platform (The Future Platform)** is a **cloud-native, white-label orchestration console**. It gives developers a control plane to create tenants and to configure and operate identity, access, security, and communication services. TF Platform is fully API-driven and modular, allowing organizations to deploy their own branded services.
 
-### Why Choose TF Platform?
+***
 
-* **Simple & Efficient**: We manage the complexities of digital identity, allowing you to focus on your core business features.
-* **Scalable**: Whether you're a startup or an enterprise, our platform grows with your needs, supporting millions of users.
-* **Quick Setup**: Get started in just 5 minutes, reducing time-to-market and keeping you ahead of the competition.
-* **Easy Compliance**: Built-in tools make it simple to meet industry regulations like GDPR, CCPA, ISO, and HIPAA.
-* **Developer-Friendly**: With clear documentation and easy integrations, your developers can start quickly.
-* **Free Tier**: Build and test your ideas with no upfront costs.
+### Identity & Access _(white-label)_
+
+* **Authentication Engine** – authentication services.
+* **Authorization Engine** – access control and policy enforcement.
+* **Accounting Engine** – event logging and accountability.
+* **Human Identity Hub** – human identity management.
+* **Machine Identity Hub** – machine and service identity management.
+* **Identity Self-Service Portal** – subscriber-facing portal.
+
+***
+
+### Security & Privacy _(white-label)_
+
+* **Consent & Privacy Hub** – consent and privacy controls.
+* **Audit Hub** – auditing of platform events.
+
+***
+
+### Integration & Communication _(white-label)_
+
+* **Communication Engine** – messaging and communication services.
+* **Integration Hub** – connectors and system integrations.
+
+
+
+<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
