@@ -1,53 +1,31 @@
 ---
 icon: globe
-cover: ../.gitbook/assets/world.png
-coverY: -127.73313565604151
 ---
 
 # Data regions
 
-When setting up a tenant, you can select a geographic location based on data residency, processing, compliance, and performance requirements. We currently support four data regions, providing flexibility and control over your data storage needs:
+## Data residency
 
-*   **European Economic Area (EEA)** \
-    Ideal for compliance with the **General Data Protection Regulation (GDPR)**, ensuring data residency within the region and optimal performance for use cases in the EEA.
+When you create a tenant, you must select a geographic location for data residency. This determines where your data is processed and stored, ensuring compliance and performance.\
+\
+We currently support two data regions:
 
-    \
-    Available on:&#x20;
+* **European Economic Area (EEA) – Netherlands**
+  * Deployed on Microsoft Azure
+* **India – Mumbai**
+  * Deployed on Google Cloud Platform (GCP)
 
-    * **Google Cloud Platform (GCP)**
-    * **Microsoft Azure**
-
-
-*   **India** (Google Cloud Platform, Microsoft Azure):\
-    Ideal for compliance with the **Personal Data Protection Bill (PDPB)**, ensuring data residency within the country and optimal performance for use cases in India.\
-
-
-    Available on:&#x20;
-
-    * **Google Cloud Platform (GCP)**
-    * **Microsoft Azure**
-
-{% hint style="success" %}
-Consult legal experts to ensure compliance with applicable regulations.
-{% endhint %}
+**Compliance Note:** Consult legal experts to ensure compliance with applicable regulations.
 
 ***
 
-## Failover Support
+### Failover Support
 
-* **Intra-Regional Failover:** Failover support is available within each data region to enhance reliability while keeping data within the selected region.
-* **Cross-Regional Failover:** Currently, we do not support cross-regional failover, ensuring that data does not leave the selected region.
-
-{% hint style="info" %}
-If you have any questions about how your data is stored, please email us at [support@tfplatform.com](https://sourcegraph.com/cody/chat). You can also read our [privacy policy](https://www.simptel.com/legal/privacy).
-{% endhint %}
+* **Intra-Regional Failover** – supported within each data region to ensure reliability and resilience, while keeping data inside the selected region.
+* **Cross-Regional Failover** – not supported. Data always remains within the selected region.
 
 ***
 
-## On the Roadmap
+### Support
 
-We are developing a **global data residency option** to better serve tenants with worldwide needs. This feature will:
-
-* Automatically select optimal data storage locations across regions.
-* Ensure compliance with international regulations.
-* Provide optimal performance for global operations.
+For questions about data storage, contact us at support@simptel.com or review our privacy policy.
