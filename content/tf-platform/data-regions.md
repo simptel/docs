@@ -15,7 +15,9 @@ We currently support two data regions:
 * **India – Mumbai**
   * Deployed on Google Cloud Platform (GCP)
 
+{% hint style="info" %}
 **Compliance Note:** Consult legal experts to ensure compliance with applicable regulations.
+{% endhint %}
 
 ***
 
