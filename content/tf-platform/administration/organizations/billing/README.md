@@ -6,42 +6,33 @@ description: >-
 
 # Billing
 
-### Overview
-
-The Future Platform operates on a **pay-as-you-go** model, meaning you only pay for the resources and services your projects use. A billing account is required to activate and manage your projects.
-
-***
-
-### Types of Billing Accounts
-
-1. **Prepaid (Default)**
-   * **Overview:** The default option, which allows you to pay in advance for services, gives you full control over your budget.
-   * **Key Features**:
-     * **Auto top-up**: Automatically replenishes your account when it reaches a specified balance, ensuring uninterrupted service.
-2. **Postpaid**
-   * **Overview**: This option is available only with a fixed-term contract and is designed for businesses with consistent usage.
-   * **Requirements**:
-     * A signed contract and an initial downpayment covering two months of service.
-     * Invoices are issued at the end of each billing cycle.
-   * **Support**: For assistance with postpaid accounts, don't hesitate to get in touch with our support team.
+We provide subscriptions through the **Microsoft Azure Marketplace** and **Google Cloud Marketplace**.\
+Our model combines **metered billing** with subscription commitments, ensuring flexibility and predictable coverage.
 
 ***
 
-### Pricing Information
+### Billing Models
 
-For a detailed breakdown of platform usage costs, refer to the pricing sheet provided by your technical account manager. Key pricing components include:
+#### 1. Metered Billing
 
-* **Monthly Active Users (MAU)**
-* **Token Operations**
-* **Audit Operations**
-* **Rate Limits**
-* **Data Transfer**
-* **Data Storage**
+* Pay for actual usage (e.g., Monthly Active Users, token operations, data transfer, storage).
+* Consumption is tracked per project and invoiced through your marketplace account.
 
-Consumption is tied to the projects associated with your billing account and will be invoiced accordingly.
+#### 2. Fixed Subscriptions
+
+* Choose **monthly** or **annual** subscriptions.
+* Pricing includes **service-level agreements (SLAs)** for guaranteed performance and support.
+* Annual subscriptions are discounted compared to monthly.
 
 ***
 
-#### Need Help?
+### Key Notes
 
-If you have any questions or need assistance with prepaid or postpaid billing accounts, please contact our support team.
+* Subscriptions include already purchased usage and SLA terms.
+* All invoicing and payments are handled through your chosen marketplace (Azure or Google).
+
+***
+
+### Next Steps
+
+For detailed pricing, plan comparisons, or to activate a subscription, please contact our **Sales team**.
