@@ -4,7 +4,7 @@ description: >-
   platform to show how many requests a tenant can sustain.
 ---
 
-# Capacity
+# Rate Limiting Policy
 
 ## How Rate Limiting Works
 
