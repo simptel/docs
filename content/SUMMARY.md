@@ -48,5 +48,5 @@
       * [Identity Federation](tf-platform/administration/organizations/integrations/identity-federation/README.md)
         * [OpenId Connect integration](tf-platform/administration/organizations/integrations/identity-federation/openid-connect-integration.md)
   * [Support](tf-platform/administration/organizations/support/README.md)
-    * [Capacity](tf-platform/administration/organizations/support/capacity.md)
-    * [API Versioning Policy](tf-platform/administration/support/api-versioning-policy.md)
+    * [Rate Limiting Policy](tf-platform/administration/support/rate-limiting-policy.md)
+    * [API Versioning Policy](tf-platform/administration/organizations/support/versioning.md)
