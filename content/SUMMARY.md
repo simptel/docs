@@ -4,7 +4,6 @@
 
 * [Overview](README.md)
 * [Data regions](tf-platform/data-regions.md)
-  * [Sub-processors](tf-platform/data-regions/sub-processors.md)
 * [Administration](tf-platform/administration/README.md)
   * [Organizations](tf-platform/administration/organizations/README.md)
     * [Settings](tf-platform/administration/organizations/settings/README.md)
