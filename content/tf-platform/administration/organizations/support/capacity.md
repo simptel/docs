@@ -45,6 +45,13 @@ The event log shows the limit, remaining requests, and reset time.
 
 ***
 
-### Quota Increase
+## Request Higher API Rate Limits
 
-Higher rate limits for public APIs may be available on request based on your subscription. Contact **support@tfplatform.com** to discuss your requirements.
+If your workloads require higher public API request capacity, please contact support@simptel.com\
+to discuss an increase in rate limits.
+
+**How to request:**
+
+1. Have your **Tenant ID** ready.
+2. Email **support@simptel.com** with subject **“API Rate Limit Increase”**.
+3. Include your **Tenant ID** and desired requests per minute, expected peak/average volume, and timeline.
