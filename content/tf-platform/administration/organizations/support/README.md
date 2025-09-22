@@ -1,38 +1,22 @@
----
-description: >-
-  This topic introduces support-related information about using TF Platform,
-  including service level agreements, available support plans, limitations, and
-  service quotas.
----
-
 # Support
 
-We structure our support into four phases of the customer lifecycle:
+We provide two types of support:&#x20;
 
-***
+#### **Project-Based Support**
 
-#### **1. Implementation Support**
+* **Implementation Support** – Greenfield deployments, migrations from existing systems, and hybrid setups.
+* **Migration Support** – Data transfers, integrations, or platform consolidation, including planning, execution, and validation.
+* **Improvement Support** – System enhancements such as architecture optimizations, new integrations, feature enablement, and performance tuning.
+* **Decommissioning Support** – Offboarding activities including secure data export, data cleanup, account closure, and migrations to other systems.
 
-Every organization’s starting point is different. Some customers begin with a greenfield setup, while others transition from existing systems. We provide the right expertise for both scenarios — from streamlined Jump Start Packages to complex migration projects. Our team ensures that your implementation is smooth, secure, and aligned with your business goals.
+{% hint style="info" %}
+**Project-Based Support is delivered under Professional Services agreements.**
+{% endhint %}
 
-***
+#### **Business-as-Usual (BAU) Support**
 
-#### **2. Operational Support**
+* **Operational Support** – Ongoing assistance with platform use, including issue reporting, troubleshooting, and service requests via the available support channels.
 
-Once live, we deliver continuous support for your day-to-day operations. Depending on your support plan, you can reach us via phone, email, or in-platform ticketing. All requests are automatically tracked in our ITSM system for accountability. Service level commitments (SLAs) guarantee timely responses and transparent escalation procedures, so your business can rely on consistent service quality.
-
-***
-
-#### **3. Migration Support**
-
-When you need to move data, integrate with other systems, or consolidate platforms, we provide structured migration support. Our specialists guide you through assessment, planning, execution, and validation — ensuring minimal downtime, secure handling of data, and a seamless transition for your users.
-
-***
-
-#### **4. Decommissioning Support**
-
-At the end of your contract, we offer responsible offboarding services. This includes secure data export, account closure, and ensuring that all regulatory and contractual requirements are met. We help you transition confidently, with a clear focus on security, compliance, and business continuity.
-
-
-
-###
+{% hint style="info" %}
+BAU Support is included in your **subscription plan** and governed by **service level agreements (SLAs)**.
+{% endhint %}
