@@ -9,8 +9,8 @@ description: >-
 ## Company Information
 
 **Simptel B.V.**\
-Avignonlaan 43\
-5627 GA Eindhoven\
+Stadhuisplein 10\
+5611 EM Eindhoven\
 Netherlands\
 Chamber of Commerce Number: 75987252\
 VAT Identification Number: NL860468690B01
@@ -18,8 +18,8 @@ VAT Identification Number: NL860468690B01
 ***
 
 **Simptel Services B.V.**\
-Avignonlaan 43\
-5627 GA Eindhoven\
+Stadhuisplein 10\
+5611 EM Eindhoven\
 Netherlands\
 Chamber of Commerce Number: 91391199\
 VAT Identification Number: NL865640774B01
