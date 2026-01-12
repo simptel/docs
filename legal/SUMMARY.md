@@ -9,4 +9,4 @@
 * [Terms and Conditions](terms-and-conditions.md)
 * [Service Level Agreement](service-level-agreement.md)
 * [Governing Law and Disputes](governing-law-and-disputes.md)
-* [Page 1](page-1.md)
+* [Service Specific Terms](service-specific-terms.md)
