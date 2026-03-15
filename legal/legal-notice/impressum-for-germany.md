@@ -6,8 +6,8 @@ description: This page contains the legally required Impressum for the website s
 
 **Serviceanbieter:**\
 Simptel B.V.\
-Avignonlaan 43\
-5627 GA Eindhoven\
+Stadhuisplein 10\
+5611 EM Eindhoven\
 Niederlande
 
 Handelskammer-Nummer: 75987252\
@@ -22,8 +22,8 @@ Vertretungsberechtigter Geschäftsführer: Izahir Clemencia
 **Verbundene Unternehmen:**
 
 Simptel Services B.V.\
-Avignonlaan 43\
-5627 GA Eindhoven\
+Stadhuisplein 10\
+5611 EM Eindhoven\
 Niederlande\
 Handelskammer-Nummer: 91391199\
 Umsatzsteuer-Identifikationsnummer: NL865640774B01
