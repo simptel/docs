@@ -1,14 +1,8 @@
----
-description: This Terms and Conditions statement was last updated on May 13, 2024
----
-
 # Terms and Conditions
 
 These Terms & Conditions are applicable to Simptel B.V. and its subsidiaries, effective as of July 18, 2023.
 
 Commitment to Accuracy: Simptel and its subsidiaries are dedicated to maintaining the currency and accuracy of these Terms & Conditions. If you discover any inaccuracies or outdated information, please notify us, specifying the section in question. We will promptly review and address it. Please contact us at [support@simptel.com](mailto:support@simptel.com).
-
-***
 
 #### 1 Definitions and scope of application
 
@@ -189,6 +183,6 @@ The extrajudicial costs actually incurred are due if they are higher than the ca
 
 | Entity Name             | Headquarters Address                                                                              | Registration Number       |
 | ----------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- |
-| Simptel B.V.            | Avignonlaan 43, 5627GA, Eindhoven, North-Brabant, Netherlands                                     | KvK 75987252              |
-| Simptel Services B.V.   | Avignonlaan 43, 5627GA, Eindhoven, North-Brabant, Netherlands                                     | KvK 91391199              |
+| Simptel B.V.            | Stadhuisplein 10, 5611EM, Eindhoven, North-Brabant, Netherlands                                   | KvK 75987252              |
+| Simptel Services B.V.   | Stadhuisplein 10, 5611EM, Eindhoven, North-Brabant, Netherlands                                   | KvK 91391199              |
 | Simptel India Pvt. Ltd. | C-305, Ganesh Glory 11, Jagatpur Rd, near BSNL Office, Jagatpur, Ahmedabad, Gujarat 382470, India | CIN U72900GJ2021FTC126002 |
