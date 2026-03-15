@@ -4,7 +4,9 @@ description: This page contains the legally required Impressum for the website s
 
 # Impressum for Germany
 
-**Serviceanbieter:**\
+### **Serviceanbieter**
+
+\
 Simptel B.V.\
 Stadhuisplein 10\
 5611 EM Eindhoven\
@@ -13,13 +15,11 @@ Niederlande
 Handelskammer-Nummer: 75987252\
 Umsatzsteuer-Identifikationsnummer: NL860468690B01
 
-E-Mail: info@simptel.com
+E-Mail: [info@simptel.com](mailto:info@simptel.com)
 
 Vertretungsberechtigter Geschäftsführer: Izahir Clemencia
 
-***
-
-**Verbundene Unternehmen:**
+### **Verbundene Unternehmen:**
 
 Simptel Services B.V.\
 Stadhuisplein 10\
@@ -34,4 +34,3 @@ Vill Jagatpur, Tal Daskroi\
 Ahmedabad, Gujarat – 382481\
 Indien\
 Corporate Identification Number (CIN): U72900GJ2021FTC126002
-
