@@ -22,8 +22,6 @@ We believe in full transparency. Below is an overview of the categories of perso
 | Location Data              | Geolocation features, security                     | Until consent withdrawal / up to 12 months            |
 | Usage & Communication Data | Service delivery, troubleshooting, analytics       | As long as necessary for service + legal requirements |
 
-For additional details on cookies and tracking technologies, please see our [**Cookies Statement**](https://www.simptel.com/legal/cookies).
-
 ***
 
 ### How Do We Protect Your Data?
