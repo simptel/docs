@@ -11,3 +11,4 @@
 * [Governing Law and Disputes](governing-law-and-disputes.md)
 * [Professional services Addendum](professional-services-addendum.md)
 * [Service Specific Terms](service-specific-terms.md)
+* [Compliance Statement](compliance-statement.md)
