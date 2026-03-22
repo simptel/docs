@@ -26,9 +26,10 @@ Simptel will update this page at least 30 days before engaging a new sub-process
 
 &#x20;**Third-party service providers**
 
-|        | Simptel Service(s) | Processing activities |
-| ------ | ------------------ | --------------------- |
-| Google | Platform DNS       | DNS Services          |
-|        |                    |                       |
-|        |                    |                       |
+|               | Simptel Service(s)                    | Processing activities |
+| ------------- | ------------------------------------- | --------------------- |
+| Google        | Platform infrastructure, Platform DNS |                       |
+| Azure         | Platform infrastructure               |                       |
+| AWS           | Platform infrastructure               |                       |
+| MongoDB Atlas | Database infrastructure               |                       |
 
