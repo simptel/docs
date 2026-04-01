@@ -41,4 +41,7 @@ Corporate Identification Number (CIN): U72900GJ2021FTC126002
 * Support: [**support@simptel.com**](mailto:support@simptel.com)
 * General inquiries: [**info@simptel.com**](mailto:info@simptel.com)
 * Sales: [**sales@simptel.com**](mailto:sales@simptel.com)
+* Finance: [finance@simptel.com](mailto:finance@simptel.com)
+
+
 
